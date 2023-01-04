@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Delon509/devChallenge/blob/main/Screenshot.jpg)
+![screenshot](https://github.com/Delon509/InteriorConsultant/blob/main/Screenshot.JPG)
 
 Use React to implement the hamburger menu function
 Use TailwindCss for Responsive Design ( Mobile first design)
